@@ -3,4 +3,6 @@
     "git.ignoreLimitWarning": true,
     "code-runner.respectShebang":true,
     "code-runner.runInTerminal": true,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontSize": 18,
 }
