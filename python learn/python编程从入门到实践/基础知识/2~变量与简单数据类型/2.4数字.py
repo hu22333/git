@@ -1,0 +1,10 @@
+#加减乘除
+print(2+3)
+print(3-2)
+print(2*3)
+print(3/2)
+#python使用两个乘号表示乘方
+print(3**2)
+#使用括号来修改运算次序
+print(2+3*4)
+print((2+3)*4)
