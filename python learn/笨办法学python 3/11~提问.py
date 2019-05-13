@@ -1,8 +1,9 @@
 # ex11.py
+# 运行软件时需一步一步的输入
 print("How old are you?", end=' ')
-age = input(25)
+age = input()
 print("How tall are you?", end=' ')
-height = input(172)
+height = input()
 print("How much do you weigh?", end=' ')
-weight = input(144)
+weight = input()
 print(f"so,you're {age} old,{height} tall and {weight} heavy.")
