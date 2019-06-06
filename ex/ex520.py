@@ -1,0 +1,16 @@
+#ex520.py
+import turtle
+turtle.setup(800,800)
+turtle.penup()
+turtle.pendown()
+turtle.pensize(25)
+turtle.pencolor("red")
+turtle.seth(45)
+turtle.circle(-80, 180)
+turtle.seth(-135)
+turtle.fd(160)
+turtle.seth(135)
+turtle.fd(160)
+turtle.seth(135)
+turtle.circle(-80, 180)
+turtle.done()
